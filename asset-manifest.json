@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/nishitraval/static/css/main.4b0e42d1.css",
+    "main.js": "/nishitraval/static/js/main.386a0940.js",
+    "static/media/lp_03.png": "/nishitraval/static/media/lp_03.cf72f665a877652a9e25.png",
+    "static/media/mealpackz_02.png": "/nishitraval/static/media/mealpackz_02.db64f7b75fbacf027bc9.png",
+    "static/media/intelli_01.png": "/nishitraval/static/media/intelli_01.fb46e7ae1de1fc4779bc.png",
+    "static/media/intelli_04.png": "/nishitraval/static/media/intelli_04.42d6c4ecaf3280ab1690.png",
+    "static/media/vb_02.png": "/nishitraval/static/media/vb_02.6394c9fde00991e3d6d3.png",
+    "static/media/bsg_01.png": "/nishitraval/static/media/bsg_01.198e4bc40db174f17aba.png",
+    "static/media/lp_01.png": "/nishitraval/static/media/lp_01.80b123ccf50dbc448fd4.png",
+    "static/media/intelli_05.png": "/nishitraval/static/media/intelli_05.2068a9c5fdfbc32b84be.png",
+    "static/media/lp_02.png": "/nishitraval/static/media/lp_02.7bf6e4f465f3a7df39a4.png",
+    "static/media/lp_04.png": "/nishitraval/static/media/lp_04.90bded147ca2d724b345.png",
+    "static/media/bellesa_03.webp": "/nishitraval/static/media/bellesa_03.8c2948707e68f797fa35.webp",
+    "static/media/intelli_03.png": "/nishitraval/static/media/intelli_03.930f2e467ccea540e619.png",
+    "static/media/bellesa_01.webp": "/nishitraval/static/media/bellesa_01.4927f23c8fe4059d6de2.webp",
+    "static/media/bellesa_02.webp": "/nishitraval/static/media/bellesa_02.f7cb38063c6d7dc69170.webp",
+    "static/media/jp_02.png": "/nishitraval/static/media/jp_02.2e00117903a4aba1d79d.png",
+    "static/media/jp_01.png": "/nishitraval/static/media/jp_01.b7a51bf8148dc28f5e64.png",
+    "static/media/intelli_02.png": "/nishitraval/static/media/intelli_02.8bd69b3a3eee05e51b74.png",
+    "static/media/mealpackz_03.webp": "/nishitraval/static/media/mealpackz_03.d45b961d08e8afc8e05e.webp",
+    "static/media/jp_03.png": "/nishitraval/static/media/jp_03.3dade4ccace1bccdb067.png",
+    "static/media/bsg_02.webp": "/nishitraval/static/media/bsg_02.05a3aadf1a2f21dcc4e7.webp",
+    "static/media/vb_01.webp": "/nishitraval/static/media/vb_01.91e19b0b371559746f88.webp",
+    "static/media/mealpackz_01.webp": "/nishitraval/static/media/mealpackz_01.7bb5d0b6e33ad930bc0f.webp",
+    "static/media/home-code.svg": "/nishitraval/static/media/home-code.a301c403e6a2d64cb04bab2755ce6c4f.svg",
+    "index.html": "/nishitraval/index.html",
+    "main.4b0e42d1.css.map": "/nishitraval/static/css/main.4b0e42d1.css.map",
+    "main.386a0940.js.map": "/nishitraval/static/js/main.386a0940.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0e42d1.css",
+    "static/js/main.386a0940.js"
+  ]
+}
