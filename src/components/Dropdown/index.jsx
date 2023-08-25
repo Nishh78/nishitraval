@@ -2,6 +2,7 @@ import React from "react";
 import { FaTimes } from "react-icons/fa";
 import styled from "@emotion/styled";
 import { Link as ScrollLink } from "react-scroll";
+import SocialIcon from "../SocialIcon/SocialIcon";
 
 const SiderBar = styled.div`
   background: #151418;
@@ -82,6 +83,7 @@ function Dropdown({ isOpen, toggle }) {
         >
           Contact
         </NavLink>
+      
       </NavMenu>
     </SiderBar>
   );
