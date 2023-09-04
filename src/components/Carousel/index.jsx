@@ -26,7 +26,8 @@ const CarouselLayout = ({
 }) => {
 
     return (
-        <Carousel>
+        <Carousel
+        swipe={true}>
             {
                 items.map((item, i) => <Item key={i} item={item} />)
             }

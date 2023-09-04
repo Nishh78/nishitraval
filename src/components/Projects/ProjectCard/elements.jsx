@@ -20,6 +20,7 @@ export const Card = styled.div`
 export const CardLeft = styled.div`
   justify-self: center;
   padding: 1.5rem;
+  cursor: pointer;
   img {
     height: auto;
   }

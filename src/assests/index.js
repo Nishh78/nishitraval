@@ -29,3 +29,4 @@ export const UG5Icon = require('./ug_05.png');
 export const JP1Icon = require('./jp_01.png');                   
 export const JP2Icon = require('./jp_02.png');                   
 export const JP3Icon = require('./jp_03.png');                   
+export const CV = require('./Nishit_Raval_CV.pdf');                   

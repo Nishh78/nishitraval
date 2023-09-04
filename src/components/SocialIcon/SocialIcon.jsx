@@ -3,6 +3,7 @@ import { FaLinkedin, FaGithub } from "react-icons/fa";
 
 import styled from "@emotion/styled";
 import { BsFileEarmarkPerson } from "react-icons/bs";
+import { CV } from "../../assests";
 
 export const SocialDiv = styled.div`
   margin-top: 2rem;
@@ -55,7 +56,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/Nishh78"
+            href={CV}
             target="_blank"
             rel="noopener noreferrer"
           >
