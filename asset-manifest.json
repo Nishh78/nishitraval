@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nishitraval/static/css/main.4b0e42d1.css",
-    "main.js": "/nishitraval/static/js/main.f44899e7.js",
+    "main.js": "/nishitraval/static/js/main.5b1a9bca.js",
     "static/media/ug_03.png": "/nishitraval/static/media/ug_03.1c2f3f9251c8b7c8eda5.png",
     "static/media/lp_03.png": "/nishitraval/static/media/lp_03.cf72f665a877652a9e25.png",
     "static/media/mealpackz_02.png": "/nishitraval/static/media/mealpackz_02.db64f7b75fbacf027bc9.png",
@@ -20,6 +20,7 @@
     "static/media/bellesa_03.webp": "/nishitraval/static/media/bellesa_03.8c2948707e68f797fa35.webp",
     "static/media/intelli_03.png": "/nishitraval/static/media/intelli_03.930f2e467ccea540e619.png",
     "static/media/bellesa_01.webp": "/nishitraval/static/media/bellesa_01.4927f23c8fe4059d6de2.webp",
+    "static/media/Nishit_Raval_CV.pdf": "/nishitraval/static/media/Nishit_Raval_CV.e6e0f66048128b532499.pdf",
     "static/media/bellesa_02.webp": "/nishitraval/static/media/bellesa_02.f7cb38063c6d7dc69170.webp",
     "static/media/jp_02.png": "/nishitraval/static/media/jp_02.2e00117903a4aba1d79d.png",
     "static/media/jp_01.png": "/nishitraval/static/media/jp_01.b7a51bf8148dc28f5e64.png",
@@ -32,10 +33,10 @@
     "static/media/home-code.svg": "/nishitraval/static/media/home-code.a301c403e6a2d64cb04bab2755ce6c4f.svg",
     "index.html": "/nishitraval/index.html",
     "main.4b0e42d1.css.map": "/nishitraval/static/css/main.4b0e42d1.css.map",
-    "main.f44899e7.js.map": "/nishitraval/static/js/main.f44899e7.js.map"
+    "main.5b1a9bca.js.map": "/nishitraval/static/js/main.5b1a9bca.js.map"
   },
   "entrypoints": [
     "static/css/main.4b0e42d1.css",
-    "static/js/main.f44899e7.js"
+    "static/js/main.5b1a9bca.js"
   ]
 }
