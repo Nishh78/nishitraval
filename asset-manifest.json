@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nishitraval/static/css/main.4b0e42d1.css",
-    "main.js": "/nishitraval/static/js/main.5b1a9bca.js",
+    "main.js": "/nishitraval/static/js/main.daebc1af.js",
     "static/media/ug_03.png": "/nishitraval/static/media/ug_03.1c2f3f9251c8b7c8eda5.png",
     "static/media/lp_03.png": "/nishitraval/static/media/lp_03.cf72f665a877652a9e25.png",
     "static/media/mealpackz_02.png": "/nishitraval/static/media/mealpackz_02.db64f7b75fbacf027bc9.png",
@@ -33,10 +33,10 @@
     "static/media/home-code.svg": "/nishitraval/static/media/home-code.a301c403e6a2d64cb04bab2755ce6c4f.svg",
     "index.html": "/nishitraval/index.html",
     "main.4b0e42d1.css.map": "/nishitraval/static/css/main.4b0e42d1.css.map",
-    "main.5b1a9bca.js.map": "/nishitraval/static/js/main.5b1a9bca.js.map"
+    "main.daebc1af.js.map": "/nishitraval/static/js/main.daebc1af.js.map"
   },
   "entrypoints": [
     "static/css/main.4b0e42d1.css",
-    "static/js/main.5b1a9bca.js"
+    "static/js/main.daebc1af.js"
   ]
 }
