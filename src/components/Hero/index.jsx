@@ -32,7 +32,7 @@ function Hero() {
           <HeroLeft>
             {/* <ScrollAnimation animateIn="fadeIn" > */}
             <p>Hey there <span className="name-animation">👋</span>, my name is</p>
-            <HeroName>Nishit Raval_</HeroName>
+            <HeroName>Nishit Raval</HeroName>
             {/* <TypeAnimation
               cursor={false}
               sequence={[
