@@ -11,7 +11,7 @@ import {
   ScrollDown,
   ScrollLink,
 } from "./elements";
-import { TypeAnimation } from 'react-type-animation';
+import { TypeAnimation } from "react-type-animation";
 import { HomeCodeIcon } from "../../assests";
 // import ScrollAnimation from "react-animate-on-scroll";
 
@@ -31,7 +31,9 @@ function Hero() {
         <HeroWrapper>
           <HeroLeft>
             {/* <ScrollAnimation animateIn="fadeIn" > */}
-            <p>Hey there <span className="name-animation">👋</span>, my name is</p>
+            <p>
+              Hey there <span className="name-animation">👋</span>, my name is
+            </p>
             <HeroName>Nishit Raval</HeroName>
             {/* <TypeAnimation
               cursor={false}
@@ -43,7 +45,15 @@ function Hero() {
               wrapper="h1"
               repeat={0}
             /> */}
-            <p>I'm a software engineer from India, currently specialising in development of web SPAs with React.js, REST/GraphQL APIs in Node.js, and other web technologies.</p>
+            <p>
+              I'm a software engineer from India, currently specialising in
+              development of web apps with 
+              <strong style={{ color: "rgb(198, 153, 252)" }}>
+                {` `}React.js, Node.js, AWS Amplify Gen 1/2, REST/GraphQL APIs{` `}
+              </strong>
+               and other web technologies.
+            </p>
+
             {/* {showSubtitle &&
               <TypeAnimation
                 cursor={true}
@@ -95,16 +105,21 @@ function Hero() {
             } */}
             {/* </ScrollAnimation> */}
             <div className="hero-social-wrapper">
-              <a href="mailto:ravalnishit81@gmail.com" className="hero-email">Email Me</a>
-              <a href="https://github.com/Nishh78" target="_blank" className="hero-github">Visit My GitHub Profile</a>
+              <a href="mailto:ravalnishit81@gmail.com" className="hero-email">
+                Email Me
+              </a>
+              <a
+                href="https://github.com/Nishh78"
+                target="_blank"
+                className="hero-github"
+              >
+                Visit My GitHub Profile
+              </a>
             </div>
           </HeroLeft>
           <HeroRight>
             {/* <ScrollAnimation animateIn="fadeIn"> */}
-            <Image
-              src={HomeCodeIcon}
-              alt="man-svgrepo"
-            />
+            <Image src={HomeCodeIcon} alt="man-svgrepo" />
             {/* </ScrollAnimation> */}
           </HeroRight>
         </HeroWrapper>
